@@ -1,4 +1,4 @@
-# IGADGET
+# iGADGET
 
 ![image](https://github.com/AngelicaManliguez/Dynamic_E-Commerce/assets/142378544/652c4680-4ee5-4fea-a7fd-a1d6ff523cb8)
 
